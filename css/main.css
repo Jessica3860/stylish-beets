@@ -86,7 +86,7 @@ blockquote strong {
 
 footer {
   font-family: "PT Serif", sans-serif;
-  font-size: 0.8rem
+  font-size: .8rem;
 }
 
 ol {
@@ -112,5 +112,11 @@ dd {
 
 ul {
   font-family: "PT Serif", sans-serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
+  list-style-type: circle;
+}
+
+small {
+  font-family: "PT Serif", sans-serif;
+  font-size: .8rem;
 }
